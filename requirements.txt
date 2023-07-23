@@ -1,0 +1,10 @@
+chessdotcom
+chess
+numpy
+nest_asyncio
+pandas
+re
+tensorflow
+keras
+sklearn
+matplotlib
